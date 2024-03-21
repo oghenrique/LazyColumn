@@ -74,7 +74,7 @@ fun Greeting() {
             modifier = Modifier.fillMaxWidth(),
             trailingIcon = {
                 IconButton(onClick = {}) {
-                    Icon(imageVector = Icons.Default.,
+                    Icon(imageVector = Icons.Default.Search,
                         contentDescription = "Botão de busca",
                         tint = Color.White
                         )
